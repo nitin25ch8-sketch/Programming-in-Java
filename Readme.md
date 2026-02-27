@@ -15,5 +15,5 @@ Link: https://drive.google.com/file/d/19ffB1hVmfT87N0wCHJRK1wh2nadvXWNi/view?usp
 - Data Types
 - Class
 - Objects
-- Operators
+- Operators  
 Link: 
